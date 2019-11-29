@@ -1,5 +1,5 @@
 # smolURL
-a url shortener in go
+URL shortener in go
 
 **Features done**
 - Takes a long url and returns a smol url (JSON format for request and response)
